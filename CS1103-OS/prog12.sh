@@ -1,0 +1,2 @@
+wc -l file.txt
+
